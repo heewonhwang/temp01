@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1> Git TEST </h1><br/>
+	<h1> Git TEST </h1><br/><br/>
 	
 	<a href = "a.jsp">a</a><br/>
 	<a href = "b.jsp">b</a><br/>
